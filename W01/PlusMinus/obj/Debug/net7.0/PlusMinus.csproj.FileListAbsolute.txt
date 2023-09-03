@@ -1,0 +1,15 @@
+c:\Users\elija\Documents\Code\HackerRank_3M\W01\PlusMinus\bin\Debug\net7.0\PlusMinus.exe
+c:\Users\elija\Documents\Code\HackerRank_3M\W01\PlusMinus\bin\Debug\net7.0\PlusMinus.deps.json
+c:\Users\elija\Documents\Code\HackerRank_3M\W01\PlusMinus\bin\Debug\net7.0\PlusMinus.runtimeconfig.json
+c:\Users\elija\Documents\Code\HackerRank_3M\W01\PlusMinus\bin\Debug\net7.0\PlusMinus.dll
+c:\Users\elija\Documents\Code\HackerRank_3M\W01\PlusMinus\bin\Debug\net7.0\PlusMinus.pdb
+c:\Users\elija\Documents\Code\HackerRank_3M\W01\PlusMinus\obj\Debug\net7.0\PlusMinus.csproj.AssemblyReference.cache
+c:\Users\elija\Documents\Code\HackerRank_3M\W01\PlusMinus\obj\Debug\net7.0\PlusMinus.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\elija\Documents\Code\HackerRank_3M\W01\PlusMinus\obj\Debug\net7.0\PlusMinus.AssemblyInfoInputs.cache
+c:\Users\elija\Documents\Code\HackerRank_3M\W01\PlusMinus\obj\Debug\net7.0\PlusMinus.AssemblyInfo.cs
+c:\Users\elija\Documents\Code\HackerRank_3M\W01\PlusMinus\obj\Debug\net7.0\PlusMinus.csproj.CoreCompileInputs.cache
+c:\Users\elija\Documents\Code\HackerRank_3M\W01\PlusMinus\obj\Debug\net7.0\PlusMinus.dll
+c:\Users\elija\Documents\Code\HackerRank_3M\W01\PlusMinus\obj\Debug\net7.0\refint\PlusMinus.dll
+c:\Users\elija\Documents\Code\HackerRank_3M\W01\PlusMinus\obj\Debug\net7.0\PlusMinus.pdb
+c:\Users\elija\Documents\Code\HackerRank_3M\W01\PlusMinus\obj\Debug\net7.0\PlusMinus.genruntimeconfig.cache
+c:\Users\elija\Documents\Code\HackerRank_3M\W01\PlusMinus\obj\Debug\net7.0\ref\PlusMinus.dll

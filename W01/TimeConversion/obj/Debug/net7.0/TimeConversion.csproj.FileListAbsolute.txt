@@ -1,0 +1,15 @@
+c:\Users\elija\Documents\Code\HackerRank_3M\W01\TimeConversion\bin\Debug\net7.0\TimeConversion.exe
+c:\Users\elija\Documents\Code\HackerRank_3M\W01\TimeConversion\bin\Debug\net7.0\TimeConversion.deps.json
+c:\Users\elija\Documents\Code\HackerRank_3M\W01\TimeConversion\bin\Debug\net7.0\TimeConversion.runtimeconfig.json
+c:\Users\elija\Documents\Code\HackerRank_3M\W01\TimeConversion\bin\Debug\net7.0\TimeConversion.dll
+c:\Users\elija\Documents\Code\HackerRank_3M\W01\TimeConversion\bin\Debug\net7.0\TimeConversion.pdb
+c:\Users\elija\Documents\Code\HackerRank_3M\W01\TimeConversion\obj\Debug\net7.0\TimeConversion.csproj.AssemblyReference.cache
+c:\Users\elija\Documents\Code\HackerRank_3M\W01\TimeConversion\obj\Debug\net7.0\TimeConversion.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\elija\Documents\Code\HackerRank_3M\W01\TimeConversion\obj\Debug\net7.0\TimeConversion.AssemblyInfoInputs.cache
+c:\Users\elija\Documents\Code\HackerRank_3M\W01\TimeConversion\obj\Debug\net7.0\TimeConversion.AssemblyInfo.cs
+c:\Users\elija\Documents\Code\HackerRank_3M\W01\TimeConversion\obj\Debug\net7.0\TimeConversion.csproj.CoreCompileInputs.cache
+c:\Users\elija\Documents\Code\HackerRank_3M\W01\TimeConversion\obj\Debug\net7.0\TimeConversion.dll
+c:\Users\elija\Documents\Code\HackerRank_3M\W01\TimeConversion\obj\Debug\net7.0\refint\TimeConversion.dll
+c:\Users\elija\Documents\Code\HackerRank_3M\W01\TimeConversion\obj\Debug\net7.0\TimeConversion.pdb
+c:\Users\elija\Documents\Code\HackerRank_3M\W01\TimeConversion\obj\Debug\net7.0\TimeConversion.genruntimeconfig.cache
+c:\Users\elija\Documents\Code\HackerRank_3M\W01\TimeConversion\obj\Debug\net7.0\ref\TimeConversion.dll

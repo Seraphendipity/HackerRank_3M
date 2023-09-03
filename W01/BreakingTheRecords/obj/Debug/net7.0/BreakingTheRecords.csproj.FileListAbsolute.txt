@@ -1,0 +1,15 @@
+C:\Users\elija\Documents\Code\HackerRank_3M\W01\BreakingTheRecords\bin\Debug\net7.0\BreakingTheRecords.exe
+C:\Users\elija\Documents\Code\HackerRank_3M\W01\BreakingTheRecords\bin\Debug\net7.0\BreakingTheRecords.deps.json
+C:\Users\elija\Documents\Code\HackerRank_3M\W01\BreakingTheRecords\bin\Debug\net7.0\BreakingTheRecords.runtimeconfig.json
+C:\Users\elija\Documents\Code\HackerRank_3M\W01\BreakingTheRecords\bin\Debug\net7.0\BreakingTheRecords.dll
+C:\Users\elija\Documents\Code\HackerRank_3M\W01\BreakingTheRecords\bin\Debug\net7.0\BreakingTheRecords.pdb
+C:\Users\elija\Documents\Code\HackerRank_3M\W01\BreakingTheRecords\obj\Debug\net7.0\BreakingTheRecords.csproj.AssemblyReference.cache
+C:\Users\elija\Documents\Code\HackerRank_3M\W01\BreakingTheRecords\obj\Debug\net7.0\BreakingTheRecords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elija\Documents\Code\HackerRank_3M\W01\BreakingTheRecords\obj\Debug\net7.0\BreakingTheRecords.AssemblyInfoInputs.cache
+C:\Users\elija\Documents\Code\HackerRank_3M\W01\BreakingTheRecords\obj\Debug\net7.0\BreakingTheRecords.AssemblyInfo.cs
+C:\Users\elija\Documents\Code\HackerRank_3M\W01\BreakingTheRecords\obj\Debug\net7.0\BreakingTheRecords.csproj.CoreCompileInputs.cache
+C:\Users\elija\Documents\Code\HackerRank_3M\W01\BreakingTheRecords\obj\Debug\net7.0\BreakingTheRecords.dll
+C:\Users\elija\Documents\Code\HackerRank_3M\W01\BreakingTheRecords\obj\Debug\net7.0\refint\BreakingTheRecords.dll
+C:\Users\elija\Documents\Code\HackerRank_3M\W01\BreakingTheRecords\obj\Debug\net7.0\BreakingTheRecords.pdb
+C:\Users\elija\Documents\Code\HackerRank_3M\W01\BreakingTheRecords\obj\Debug\net7.0\BreakingTheRecords.genruntimeconfig.cache
+C:\Users\elija\Documents\Code\HackerRank_3M\W01\BreakingTheRecords\obj\Debug\net7.0\ref\BreakingTheRecords.dll
